@@ -17,11 +17,11 @@ color:
   brandStrength: 0.5
   lightness: 0.4387755
   brandColors:
-    - '#fefefe'
-    - '#84a896'
-    - '#d18947'
-    - '#b0703b'
-    - '#cdbc94'
+    - '#151F14'
+    - '#95CAF4'
+    - '#E7BB8E'
+    - '#75864F'
+    - '#374A34'
   rhythmicContrast: 0.4667025
 cta:
   bucket: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: theperlenpaintco
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.8188144112937152
-layout_spectrum: 0.4203465760219842
+typography_spectrum: 0.31203
+layout_spectrum: 0.1348013
