@@ -1,29 +1,41 @@
-name: theperlenpaintco
-favicon: null
-layout_spectrum: 0.4203465760219842
-typography_spectrum: 0.8188144112937152
 title: Craftsmanship worth remembering
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.75
+  brandStrength: 0.5
+  lightness: 0.4387755
   brandColors:
     - '#fefefe'
     - '#84a896'
     - '#d18947'
     - '#b0703b'
     - '#cdbc94'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.4667025
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: theperlenpaintco
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8188144112937152
+layout_spectrum: 0.4203465760219842
